@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[VerifyFacebookLoginPageLogo]]>
+    </line>
+    <line>
+      <![CDATA[VerifyFacebookLoginPageTagline]]>
+    </line>
+    <line>
+      <![CDATA[VeryFyFacebookLOginPageCreatNewAccountBtn]]>
+    </line>
+    <line>
+      <![CDATA[VeriFyFacebookLoginPageForgotPasswardlink]]>
+    </line>
+    <line>
+      <![CDATA[VerifyFacebookLoginPageFooterlinksSize]]>
+    </line>
+    <line>
+      <![CDATA[SetFacebookLoginPageUsername]]>
+    </line>
+    <line>
+      <![CDATA[SetFacebookLoginPagePassward]]>
+    </line>
+    <line>
+      <![CDATA[ClickFacebookLoginPageLoginbtn]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-11-14T16:56:35 IST" name="Functional Suite" finished-at="2022-11-14T16:56:45 IST" duration-ms="10714">
+    <groups>
+    </groups>
+    <test started-at="2022-11-14T16:56:35 IST" name="Functional Test" finished-at="2022-11-14T16:56:45 IST" duration-ms="10714">
+      <class name="Com.ProjectName.qa.Test.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.ProjectName.qa.Test.LoginPageTest@662b4c69]" started-at="2022-11-14T16:56:41 IST" name="setup" finished-at="2022-11-14T16:56:44 IST" duration-ms="3105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FacebookLoginPageTest()[pri:0, instance:Com.ProjectName.qa.Test.LoginPageTest@662b4c69]" started-at="2022-11-14T16:56:44 IST" name="FacebookLoginPageTest" finished-at="2022-11-14T16:56:45 IST" duration-ms="699" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[VerifyFacebookLoginPageLogo]]>
+            </line>
+            <line>
+              <![CDATA[VerifyFacebookLoginPageTagline]]>
+            </line>
+            <line>
+              <![CDATA[VeryFyFacebookLOginPageCreatNewAccountBtn]]>
+            </line>
+            <line>
+              <![CDATA[VeriFyFacebookLoginPageForgotPasswardlink]]>
+            </line>
+            <line>
+              <![CDATA[VerifyFacebookLoginPageFooterlinksSize]]>
+            </line>
+            <line>
+              <![CDATA[SetFacebookLoginPageUsername]]>
+            </line>
+            <line>
+              <![CDATA[SetFacebookLoginPagePassward]]>
+            </line>
+            <line>
+              <![CDATA[ClickFacebookLoginPageLoginbtn]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- FacebookLoginPageTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Com.ProjectName.qa.Test.LoginPageTest@662b4c69]" started-at="2022-11-14T16:56:45 IST" name="teardown" finished-at="2022-11-14T16:56:45 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Com.ProjectName.qa.Test.LoginPageTest -->
+      <class name="Com.ProjectName.qa.Test.RegistrtionTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.ProjectName.qa.Test.RegistrtionTest@1b1426f4]" started-at="2022-11-14T16:56:35 IST" name="setup" finished-at="2022-11-14T16:56:38 IST" duration-ms="3573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FacebookregistrationPageTest_Positive()[pri:0, instance:Com.ProjectName.qa.Test.RegistrtionTest@1b1426f4]" started-at="2022-11-14T16:56:38 IST" name="FacebookregistrationPageTest_Positive" finished-at="2022-11-14T16:56:41 IST" duration-ms="2920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookregistrationPageTest_Positive -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Com.ProjectName.qa.Test.RegistrtionTest@1b1426f4]" started-at="2022-11-14T16:56:41 IST" name="teardown" finished-at="2022-11-14T16:56:41 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Com.ProjectName.qa.Test.RegistrtionTest -->
+    </test> <!-- Functional Test -->
+  </suite> <!-- Functional Suite -->
+</testng-results>
